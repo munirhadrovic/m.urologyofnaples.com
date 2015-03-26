@@ -3,7 +3,7 @@
 	<head>
 		
 		<link rel="stylesheet" href="css/jquery.mobile-1.4.5.css">
-
+        <title>Naples Urology Naples</title>
 		<script src="js/jquery-1.11.2.js"></script>
 		<script>
 		    $(document).on("mobileinit", function(evt) {
@@ -92,7 +92,8 @@
 		    <h1><img src="img/logo.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1>Mobile Site<a href="http://www.urologyofnaples.com/" rel="external">|Classic Site</a></h1>
+            <h1>Powered by <a href="http://www.mobilegrows.com" rel="external">MobileGrows</a> | <a href="http://www.urologyofnaples.com/" rel="external">Desktop Site</a></h1>
+
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
